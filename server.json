@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "venda",
+      "price": 14000,
+      "createdAt": "2023-09-02T07:45:37.378Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "alimentação",
+      "price": 59,
+      "createdAt": "2023-09-02T07:14:22.4852"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2023-07-29T19:24:44.505Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 10000,
+      "category": "venda",
+      "type": "income",
+      "createdAt": "2023-09-04T16:05:53.384Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-09-04T16:56:15.046Z",
+      "id": 5
+    },
+    {
+      "description": "Iogurte de Banana",
+      "price": 4,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-09-04T17:16:13.677Z",
+      "id": 6
+    },
+    {
+      "description": "Starfield",
+      "price": 289,
+      "category": "Games",
+      "type": "outcome",
+      "createdAt": "2023-09-04T21:01:26.734Z",
+      "id": 7
+    }
+  ]
+}
